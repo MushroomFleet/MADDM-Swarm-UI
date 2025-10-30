@@ -6,13 +6,13 @@
 
 Choose your preferred deployment method:
 
-### Option 1: Online Platform (Recommended for beginners)
-Visit **[https://maddm-swarm.oragenai.com](https://maddm-swarm.oragenai.com)**
+### Option 1: Online Platform (Recommended for beginners) (Swarm Only, No ADDM)
+Visit **[https://hybrid-swarm.oragenai.com/](https://hybrid-swarm.oragenai.com/)**
 
 - ✨ **Only requires OpenRouter.ai API key** - no local installation needed
 - 🎓 **Interactive tutorial** introducing the Stigmergic Coordinator and ADDM Loop Regulator
 - 🔥 **Full-featured experience** with guided experimentation
-- 🧪 **ADDM mode** for intelligent iterative content refinement
+- 🧪 **ADDM mode is Local only** for intelligent iterative content refinement
 
 ### Option 2: Local Development
 
@@ -143,7 +143,7 @@ The **Adaptive Decision-Making (ADDM)** system provides intelligent loop control
 
 - 🧪 **ADDM Loop Regulator:** [ADDM Agentic Loop Regulator](https://github.com/MushroomFleet/ADDM-Agentic-Loop-Regulator) - Standalone Python ADDM service
 - 📋 **Phase Plans:** [Agentic DDM Framework](https://github.com/MushroomFleet/Agentic-DDM-Framework) - Implementation planning
-- 🤖 **Claude Code Agent:** [Hybrid Swarm Agent](https://github.com/MushroomFleet/Hybrid-Swarm-Agent) - Code generation agent
+- 🤖 **Claude Code Agent:** [Hybrid Swarm Agent](https://github.com/MushroomFleet/Hybrid-Swarm-Agent) - Grounded Swarm agent
 - 🧪 **Research Lab:** [Cognition-9 Research](https://github.com/MushroomFleet/Cognition-9) - AI coordination research
 
 ## 📋 Usage
